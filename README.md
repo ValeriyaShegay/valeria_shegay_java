@@ -1,2 +1,0 @@
-# valeria_shegay_java
-Valeria_shegay_java_tasks
