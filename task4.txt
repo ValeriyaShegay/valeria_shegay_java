@@ -1,0 +1,5 @@
+Given bracket sequence: [((())()(())]]
+Can this sequencebe considered correct?
+If the answer to the previous question is "no", then what needs to be changed in it to make it correct?
+
+Answer: No, bracket sequence is not correct, because it starts from [( but closed ]], so we need to change the last bracket from ] to ).
